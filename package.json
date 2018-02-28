@@ -1,0 +1,20 @@
+{
+  "name": "primus-webpack-plugin-bug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "primus": "^7.1.1",
+    "primus-webpack-plugin": "^0.0.37",
+    "webpack": "^3.11.0",
+    "ws": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
